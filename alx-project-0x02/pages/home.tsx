@@ -1,4 +1,5 @@
-import Card, { type CardProps } from "@/components/common/Card";
+import Card from "@/components/common/Card";
+import { type CardProps } from "@/components/common/Card";
 
 const Home : React.FC = () => {
     const cards: CardProps[] = [ 
